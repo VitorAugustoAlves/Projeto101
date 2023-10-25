@@ -1,8 +1,8 @@
 import random
 
-response = int(input("Prescione y para começar e n para parar"))
+responce = "y"
 
-if responce == y:
+while responce == "y":
     no = random.radint(1,6)
 
 if no == 1:
@@ -46,3 +46,6 @@ if no == 6:
     print("[     ]")
     print("[0 0 0]")
     print("[-----]")    
+
+response = int(input("Prescione y para continuar e n para parar."))
+print("\n")
