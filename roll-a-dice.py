@@ -1,9 +1,9 @@
 import random
 
-responce = "y"
+response = "y"
 
-while responce == "y":
-    no = random.radint(1,6)
+while response == "y":
+    no = random.randint(1,6)
 
 if no == 1:
     print("[-----]")
