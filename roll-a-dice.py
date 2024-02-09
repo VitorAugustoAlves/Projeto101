@@ -47,5 +47,5 @@ if no == 6:
     print("[0 0 0]")
     print("[-----]")    
 
-response = int(input("Prescione y para continuar e n para parar."))
+response = input("Prescione y para continuar e n para parar.")
 print("\n")
