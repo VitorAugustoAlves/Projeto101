@@ -47,5 +47,5 @@ while response == "y":
         print("[0 0 0]")
         print("[-----]")    
 
-response = input("Prescione y para continuar e n para parar.")
-print("\n")
+    response = input("Prescione y para continuar e n para parar.")
+    print("\n")
